@@ -1,0 +1,6 @@
+fastapi
+pathlib
+subprocess
+shutil
+logging
+uvicorn
